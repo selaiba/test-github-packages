@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/selaiba/test-github-packages.git"
   },
+  "publishConfig": {
+    "selaiba:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "test"
   ],
